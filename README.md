@@ -1,2 +1,2 @@
 # Art-characterization
-Multi-task classification CNN model for art characterization
+CNN model for art characterization
